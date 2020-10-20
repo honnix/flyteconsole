@@ -112,7 +112,7 @@ a single module, you can specify that one specifically
 (ex. ``localStorage.debug = 'flyte:adminEntity'`` to only see decoded Flyte
 Admin API requests).
 
-.. _cors-proxying:
+
 
 ==============
 CORS Proxying
